@@ -1,0 +1,6 @@
+{
+  "name": "Stadımız Kadıköy'de",
+  "description": "Fenerbahçe Şükrü Saracoğlu Stadyumu'nun Kadıköy'de kalmasını savunan dijital farkındalık platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
